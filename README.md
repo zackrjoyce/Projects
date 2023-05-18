@@ -33,4 +33,5 @@ Union Pacific Switch Alignment Game
 
     -Worked with a team to develop a mobile game using Unity 3D for Union Pacific to train employees in switch alignment.
     -Used Spring Boot to create a REST API, along with Apache Tomcat web server and Oracle Cloud Database Services.
-    -Personally created entire backend of project, including setting up the Oracle Database, Apache Tomcat webserver, and Spring Boot REST API. Also created scripts to connect the backend to the Unity front end. Created various scripts in the Unity project including the leaderboard, camera follow script, and various other features. 
+    -Personally created entire backend of project, including setting up the Oracle Database, Apache Tomcat webserver, and Spring Boot REST API. Also created scripts to connect the backend to the Unity front end. Created various scripts in the Unity 
+    project including the leaderboard, camera follow script, and various other features. 
