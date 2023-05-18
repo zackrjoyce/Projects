@@ -28,3 +28,9 @@ Public Bet Handle vs NFL Game outcome Neural Network + Logistic Regression model
     -Features are collected for each team that played each week, from NFL weeks 1-18
     -Weights are collected as the corresponding win or loss by each team, with a win represented as a 1 and a loss represented as a 0
     -Models are applied to NFL Wildcard playoff matchups to test
+
+Union Pacific Switch Alignment Game
+
+    -Worked with a team to develop a mobile game using Unity 3D for Union Pacific to train employees in switch alignment.
+    -Used Spring Boot to create a REST API, along with Apache Tomcat web server and Oracle Cloud Database Services.
+    -Personally created entire backend of project, including setting up the Oracle Database, Apache Tomcat webserver, and Spring Boot REST API. Also created scripts to connect the backend to the Unity front end. Created various scripts in the Unity project including the leaderboard, camera follow script, and various other features. 
