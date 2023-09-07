@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiTestApp.Authentication">
+
+    <Grid RowDefinitions=".25*, .1*, .075*, .075*, .1*, .1*, .1*, .1*, .1*"
+        ColumnDefinitions=".2*, .2*, .2*, .2*, .2*">
+
+        <Image Grid.ColumnSpan="5"
+               Source="dotnet_bot.png"
+               BackgroundColor="MediumPurple" />
+        <Button Text="Register"
+                x:Name="RegisterButton"
+                Grid.ColumnSpan="3"
+                Grid.Row="4"
+                Grid.Column="1"
+                SemanticProperties.Hint="Go to the Login Page"
+                Clicked="RegisterClicked" />
+        <Button Text="Login"
+                x:Name="LoginButton"
+                Grid.ColumnSpan="3"
+                Grid.Row="6"
+                Grid.Column="1"
+                SemanticProperties.Hint="Go to the Login Page"
+                Clicked="LoginClicked" />
+        <Label Text="Copyright 2023 Zack Joyce"
+              FontSize="10"
+              Grid.ColumnSpan="3"
+              Grid.Row="8"
+              Grid.Column="1"
+              HorizontalOptions="CenterAndExpand" 
+              VerticalOptions="CenterAndExpand" />
+    </Grid>
+
+</ContentPage>
