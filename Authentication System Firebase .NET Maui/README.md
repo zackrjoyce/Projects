@@ -10,8 +10,6 @@ Firebase Realtime Database: This system integrates Firebase Realtime Database, e
 
 User Profiles: User profiles are automatically generated upon registration and are stored in the Firebase Realtime Database. These profiles can be customized to include information such as user names, profile pictures, and other relevant data.
 
-Cloud Storage: Users can associate specific "products" with their accounts, and these product data are stored securely in the cloud. This ensures that users can access their products from anywhere, and the data is synchronized in real-time across devices.
-
 Getting Started
 To get started with this Authentication System in your .NET Maui project, follow these steps:
 
@@ -23,13 +21,29 @@ Realtime Database Integration: Integrate Firebase Realtime Database into your pr
 
 User Profiles: Customize the user profile structure in the database to suit your application's needs. Ensure that user profiles are created upon registration and updated as needed.
 
-Cloud Storage: Implement the functionality to associate products or other user-specific data with their accounts and store them securely in Firebase Cloud Storage.
-
 Error Handling: Implement error handling mechanisms to handle authentication errors gracefully and provide feedback to users.
 
 ![Screenshot 1](./screenshots/MainPage.png)
+
+Main Page of the App
+
 ![Screenshot 1](./screenshots/AuthPage.png)
+
+User select Authentication tab Flyout Menu.
+
 ![Screenshot 1](./screenshots/Register.png)
+
+User register screen with error handling to avoid account duplication, invalid passwords, and other relevant errors.
+
 ![Screenshot 1](./screenshots/authFirebase.png)
+
+Authentication tab in Firebase Database showing the newly created user.
+
 ![Screenshot 1](./screenshots/ProductPage.png)
+
+Product page with "Add Product" button, allowing users to associate certain products with their account.
+
 ![Screenshot 1](./screenshots/RealtimeFirebase.png)
+
+Realtime Database tab, showing products associated with account.
+
