@@ -1,4 +1,5 @@
-Union Pacific Switch Alignment Game
+**Union Pacific Switch Alignment Game**
+
 Welcome to the README for the Union Pacific Switch Alignment Game! This mobile game was developed as part of a collaborative effort to train Union Pacific employees in switch alignment practices. Below, you will find an overview of the project, its features, and how it was developed.
 
 Overview
