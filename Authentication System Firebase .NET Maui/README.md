@@ -1,4 +1,4 @@
-Authentication System Firebase .NET Maui
+**Authentication System Firebase .NET Maui**
 This README file provides an overview of the Authentication System built for .NET Maui using Firebase. This system incorporates Firebase Authentication and Firebase Realtime Database capabilities to create a robust and secure user authentication and data storage solution.
 
 Features
@@ -30,6 +30,6 @@ Error Handling: Implement error handling mechanisms to handle authentication err
 ![Screenshot 1](./screenshots/MainPage.png)
 ![Screenshot 1](./screenshots/AuthPage.png)
 ![Screenshot 1](./screenshots/Register.png)
-![Screenshot 1](./screenshots/AuthFirebase.png)
+![Screenshot 1](./screenshots/authFirebase.png)
 ![Screenshot 1](./screenshots/ProductPage.png)
 ![Screenshot 1](./screenshots/RealtimeFirebase.png)
