@@ -12,18 +12,6 @@ Firebase Realtime Database: This system integrates Firebase Realtime Database, e
 
 User Profiles: User profiles are automatically generated upon registration and are stored in the Firebase Realtime Database. These profiles can be customized to include information such as user names, profile pictures, and other relevant data.
 
-Getting Started
-To get started with this Authentication System in your .NET Maui project, follow these steps:
-
-Firebase Setup: Ensure you have set up a Firebase project and obtained the necessary Firebase configuration files (e.g., google-services.json for Android and GoogleService-Info.plist for iOS).
-
-Authentication Integration: Integrate the Firebase Authentication SDK into your .NET Maui project by following the documentation provided by Firebase. This will include initializing Firebase, setting up sign-in methods, and handling user authentication.
-
-Realtime Database Integration: Integrate Firebase Realtime Database into your project, configure database rules, and implement data storage and retrieval logic.
-
-User Profiles: Customize the user profile structure in the database to suit your application's needs. Ensure that user profiles are created upon registration and updated as needed.
-
-Error Handling: Implement error handling mechanisms to handle authentication errors gracefully and provide feedback to users.
 
 ![Screenshot 1](./screenshots/MainPage.png)
 
